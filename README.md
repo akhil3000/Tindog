@@ -1,0 +1,2 @@
+# Tindog
+Static Websit
